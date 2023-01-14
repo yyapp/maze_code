@@ -1,2 +1,2 @@
-# maze_code
-미궁 게임
+# aimaze
+ai로 하는 미궁 게임
